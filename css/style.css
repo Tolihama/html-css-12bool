@@ -1,0 +1,25 @@
+[class*=box] {
+    color: #fff;
+    text-align: center;
+}
+
+.blue-box {
+    background: #006cfa;
+    padding: 15px;
+    border: 1px solid #fff;
+}
+
+.green-box {
+    background: #00e165;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid #006cfa;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.h-50 {
+    height: 50px;
+}
